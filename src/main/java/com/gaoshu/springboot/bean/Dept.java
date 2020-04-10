@@ -1,7 +1,7 @@
 package com.gaoshu.springboot.bean;
 
 public class Dept {
-    private  int deptno;
+    private  int deptno=12;
     private String dname;
 
     public int getDeptno() {
